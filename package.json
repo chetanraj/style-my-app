@@ -1,0 +1,17 @@
+{
+  "name": "@chetanraj/style-my-app",
+  "version": "0.0.1",
+  "description": "style your app with the framework of your choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chetan Raj <chetan.narian@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "inquirer": "^7.1.0",
+    "tailwindcss": "1.4.6"
+  }
+}
